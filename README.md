@@ -1,2 +1,2 @@
 # Coursera_Capstone
-IBM Data Science @ Coursera
+This is my repository of work for the IBM Data Science certification on Coursera
